@@ -1,0 +1,10 @@
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\AirDrums.exe
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\AirDrums.pdb
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\obj\x86\Debug\AirDrums.exe
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\obj\x86\Debug\AirDrums.pdb
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\Content\p1_wedge.xnb
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\Content\wedge_p1_diff_v1.xnb
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\Content\wedge_p1_diff_v1_0.xnb
+C:\Users\cmnl\Desktop\AirDrums\AirDrums\AirDrums\AirDrums\bin\x86\Debug\Content\drums.xnb
